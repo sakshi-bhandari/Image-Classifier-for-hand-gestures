@@ -1,4 +1,4 @@
-#Application of CNN in detecting hand gestures
+##Application of CNN in detecting hand gestures
 
 This is a very basic image classifier. I have added my dataset of images for reference, and they have 6 possible outputs. As a beginner to CNNs myself, these codes are added for beginners to grasp their concepts.
 
